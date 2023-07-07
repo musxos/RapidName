@@ -8,8 +8,8 @@ export const customRPC = {
         symbol: 'RAPID',
     },
     rpcUrls: {
-        public: { http: ['https://testnet.rapidrpc.com/'] },
-        default: { http: ['https://testnet.rapidrpc.com/'] },
+        public: { http: ['http://testnet.rapidrpc.com/'] },
+        default: { http: ['http://testnet.rapidrpc.com/'] },
     },
     blockExplorers: {
         etherscan: { name: 'RapidScan', url: 'https://rapidscan.io/' },
