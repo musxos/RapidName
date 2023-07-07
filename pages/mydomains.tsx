@@ -115,7 +115,6 @@ const NFT: NextPage = () => {
                         <div className="name-align">
                             <div className="name-bar">
                         
-                                                  <h4>RNS</h4>
 
                   
                             </div>
@@ -126,7 +125,6 @@ const NFT: NextPage = () => {
                             <div className="nav-menu-header">
 
                                 <div className="search-name-container">
-                  <h4>RNS</h4>
                                 </div>
                             </div>
                             <div id="nth" className="nav-links-effect-container">
@@ -139,6 +137,13 @@ const NFT: NextPage = () => {
                                         </div>
                                     </a>
                                     : ''}
+                                <a href="https://www.rapidnameservices.com/" className="nav-link">
+                                    <div className="link-anim-set">
+                                        <div className="link-anim-set-p p3">
+                                            <div className="link-numbers">02</div>Home
+                                        </div>
+                                    </div>
+                                </a>
                                 <a href="https://faucet.rapidchain.io/" className="nav-link">
                                     <div className="link-anim-set">
                                         <div className="link-anim-set-p p3">
