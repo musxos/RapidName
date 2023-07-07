@@ -115,7 +115,8 @@ const NFT: NextPage = () => {
                         <div className="name-align">
                             <div className="name-bar">
                                 <a href="/">
-                                    <img width="100px" src="logo.png" alt="logo" />
+                                                  <h4>RNS</h4>
+
                                 </a>
                             </div>
                         </div>
@@ -125,7 +126,7 @@ const NFT: NextPage = () => {
                             <div className="nav-menu-header">
 
                                 <div className="name-bar">
-                                    <img width="100px" src="logo.png" alt="logo" />
+                  <h4>RNS</h4>
                                 </div>
                             </div>
                             <div id="nth" className="nav-links-effect-container">
@@ -138,7 +139,7 @@ const NFT: NextPage = () => {
                                         </div>
                                     </a>
                                     : ''}
-                                <a href="https://faucet.sinyordes.online/" className="nav-link">
+                                <a href="https://faucet.rapidchain.io/" className="nav-link">
                                     <div className="link-anim-set">
                                         <div className="link-anim-set-p p3">
                                             <div className="link-numbers">03</div>Rapid Faucet
