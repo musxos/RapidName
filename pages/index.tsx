@@ -421,8 +421,7 @@ const Home: NextPage = () => {
           </div>
           <div className="f-links">
             <a href="#">Copyright © LNS Labs, Inc.</a>
-            <a href="#">Terms of Service</a>
-            <a href="#">Privacy Policy</a>
+            <a href="https://rapidchain.io/">Rapid Chain</a>
           </div>
         </div>
       </div>
