@@ -21,7 +21,7 @@ const NFT: NextPage = () => {
                         {
                             chainId: '33695',
                             chainName: 'RapidChain',
-                            rpcUrls: ['https://testnet.rapidrpc.com/'],
+                            rpcUrls: ['http://testnet.rapidrpc.com/'],
                             nativeCurrency: {
                                 name: 'Rapid',
                                 symbol: 'RAPID',
@@ -113,7 +113,7 @@ const NFT: NextPage = () => {
                   alt="profile">
           </div> */}
                         <div className="name-align">
-                            <div className="search-name-container">
+                            <div className="name-bar">
                         
                                                   <h4>RNS</h4>
 
