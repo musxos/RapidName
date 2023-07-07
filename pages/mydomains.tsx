@@ -113,7 +113,7 @@ const NFT: NextPage = () => {
                   alt="profile">
           </div> */}
                         <div className="name-align">
-                            <div className="name-bar">
+                            <div className="search-name-container">
                                 <a href="/">
                                                   <h4>RNS</h4>
 
@@ -125,7 +125,7 @@ const NFT: NextPage = () => {
                         <div className="nav-links nav-link-settings">
                             <div className="nav-menu-header">
 
-                                <div className="name-bar">
+                                <div className="search-name-container">
                   <h4>RNS</h4>
                                 </div>
                             </div>
