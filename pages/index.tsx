@@ -247,7 +247,7 @@ const Home: NextPage = () => {
                       </div>
                     </a>
                     : ''}
-                  <a href="https://goerlifaucet.com/" className="nav-link">
+                  <a href="https://faucet.rapidchain.io/" className="nav-link">
                     <div className="link-anim-set">
                       <div className="link-anim-set-p p3">
                         <div className="link-numbers">03</div>Rapid Faucet
@@ -360,7 +360,7 @@ const Home: NextPage = () => {
                 <div className="box-content">
                   <span>Unique Wallets</span>
                   <br />
-                  <b>1,345</b>
+                  <b>165</b>
                 </div>
               </div>
               <div className="box">
@@ -370,7 +370,7 @@ const Home: NextPage = () => {
                 <div className="box-content">
                   <span>Registrations</span>
                   <br />
-                  <b>2,165</b>
+                  <b>345</b>
                 </div>
               </div>
             </div>
