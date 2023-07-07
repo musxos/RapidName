@@ -21,7 +21,7 @@ const Home: NextPage = () => {
 
   async function control(name: string) {
     const contractAddress = "0xB0050a71569CaD79CC998f2Eb5bb2afC0B7bFF08";
-    const provider = new ethers.providers.JsonRpcProvider("https://testnet.rapidrpc.com/")
+    const provider = new ethers.providers.JsonRpcProvider("http://testnet.rapidrpc.com/")
     const contract = new ethers.Contract(contractAddress, abi, provider);
     contract.domains(name)
       .then((result: string) => {
@@ -58,7 +58,7 @@ const Home: NextPage = () => {
             {
               chainId: '33695', // Mumbai network chainId
               chainName: 'RapidChain',
-              rpcUrls: ['https://testnet.rapidrpc.com/'], // Mumbai network RPC URL
+              rpcUrls: ['http://testnet.rapidrpc.com/'], // Mumbai network RPC URL
               nativeCurrency: {
                 name: 'Rapid',
                 symbol: 'RAPID',
