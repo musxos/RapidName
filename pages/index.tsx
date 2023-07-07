@@ -222,7 +222,7 @@ const Home: NextPage = () => {
           </div> */}
               <div className="name-align">
                 <div className="name-bar">
-                  <img width="100px" src="logo.png" alt="logo" />
+                  <h4>RNS</h4>
                 </div>
               </div>
             </div>
@@ -234,7 +234,7 @@ const Home: NextPage = () => {
                           alt="profile">
                   </div> */}
                   <div className="name-bar">
-                    <img width="100px" src="logo.png" alt="logo" />
+                  <h4>RNS</h4>
                   </div>
                 </div>
                 <div id="nth" className="nav-links-effect-container">
@@ -417,7 +417,7 @@ const Home: NextPage = () => {
           </div>    */}
         <div className="alt-items" style={{ paddingTop: 50 }}>
           <div className="f-logo">
-            <img width="100px" src="logo.png" alt="logo" />
+          <h4>RNS</h4>
           </div>
           <div className="f-links">
             <a href="#">Copyright © LNS Labs, Inc.</a>
