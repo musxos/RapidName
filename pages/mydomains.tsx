@@ -114,10 +114,10 @@ const NFT: NextPage = () => {
           </div> */}
                         <div className="name-align">
                             <div className="search-name-container">
-                                <a href="/">
+                        
                                                   <h4>RNS</h4>
 
-                                </a>
+                  
                             </div>
                         </div>
                     </div>
