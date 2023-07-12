@@ -155,13 +155,17 @@ const Home: NextPage = () => {
 
   }
   const setName_ = (e: any) => {
-    setName(e.target.value)
+    const value = e.target.value;
+    const filteredValue = value.replace(/[^a-zA-Z0-9]/g, "");
+    setName(filteredValue)
     setAlreadyReg(false)
   }
 
   const buyButton = async () => {
     await setStatus(true)
   }
+
+
 
 
   return (
