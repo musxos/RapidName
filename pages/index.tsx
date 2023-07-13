@@ -226,7 +226,7 @@ const Home: NextPage = () => {
           </div> */}
               <div className="name-align">
                 <div className="name-bar">
-                  <h4>RNS</h4>
+                  <img src="RNS.png" />
                 </div>
               </div>
             </div>
